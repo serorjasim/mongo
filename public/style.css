@@ -1,0 +1,10 @@
+body {
+    background-image: url("https://media.architecturaldigest.com/photos/56e9c2c66836c03a28818cce/master/w_640,c_limit/Devocion.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.navbar {
+    background: purple;
+}
